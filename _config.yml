@@ -1,0 +1,24 @@
+title: The Signal — Podcast Notes & Insights
+description: >-
+  Turning our podcast episodes into readable, searchable, SEO-friendly articles.
+  Powered by Beevr.
+author: Alan
+baseurl: ""
+url: ""
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO defaults
+lang: en_US
+twitter:
+  card: summary_large_image
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:title/
+
+header_pages:
+  - about.md
