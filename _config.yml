@@ -3,8 +3,8 @@ description: >-
   Turning our podcast episodes into readable, searchable, SEO-friendly articles.
   Powered by Beevr.
 author: Alan
-baseurl: ""
-url: ""
+baseurl: "/alan-podcast-blog"
+url: "https://v2pir.github.io"
 theme: minima
 plugins:
   - jekyll-feed
