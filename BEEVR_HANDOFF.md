@@ -40,13 +40,18 @@ turn last week's episodes into posts").
 
 ## Pointing it at YOUR podcast + YOUR website
 
-Two things and you're live on your real content:
+Send us these and you're live on your real content — it's a 2-minute swap on our side:
 
-1. **Podcast:** your Megaphone RSS feed URL (or Megaphone API access).
-2. **Website:** connect your site's GitHub repo (one-click OAuth) and tell Beevr
-   which folder posts live in (e.g. `_posts/`, `content/blog/`, `src/content/`).
+1. **Your podcast:** your Megaphone RSS feed URL (or Megaphone API access).
+2. **Your website repo:** the GitHub `owner/repo` and the folder posts live in
+   (e.g. `_posts/`, `content/blog/`, `src/content/blog/`, `posts/`).
+3. **Write access to that repo** — the one thing needed from you. Either:
+   - connect **your** GitHub to the Beevr workspace (one-click OAuth), so posts
+     commit as you; **or**
+   - add our publishing account as a **collaborator** with write access.
 
 That's it — Beevr handles discovery, transcription, writing, and publishing.
+Works with Jekyll, Hugo, Next.js, Astro, Gatsby, and 11ty out of the box.
 
 ## Roadmap for your network (the paid tier)
 
